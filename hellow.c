@@ -2,5 +2,7 @@
 #include<conio.h>
 void main()
 {
-  printf("Hello World"); # to print the hello world
+  int a=10,b=10,c;
+  c=a+b;
+  printf("The value of c after addition %d",c);
 }
