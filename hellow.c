@@ -3,5 +3,5 @@
 void main()
 {
   printf("Hello World");
-  printf("rymsha");
+  printf("rymsha 1");
 }

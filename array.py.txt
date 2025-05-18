@@ -15,4 +15,4 @@ element_type = array.dtype
 
 print("Type of the elements in array:", element_type)
 
-print("hi")
+print("hi varan1")
